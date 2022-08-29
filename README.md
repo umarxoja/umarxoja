@@ -19,7 +19,7 @@ A.k.a. **Prof. 猪** in [HM University](https://github.com/HMUniversity).
 - :memo: [Blog](https://blog.chungzh.cn) :card_index: [Portfolio](https://chungzh.cn) :email: `chungzh07 at gmail.com` :airplane: [Telegram](https://t.me/skyporker_channel) :inbox_tray: [Matrix](https://matrix.to/#/#zirnc-general:matrix.org) .
 - :peach: My [Scoop](https://scoop.sh) bucket [peach](https://github.com/ChungZH/peach).
 
-<details>
+<details> 
 
 <summary>My GitHub Stats</summary>
 
@@ -30,7 +30,13 @@ A.k.a. **Prof. 猪** in [HM University](https://github.com/HMUniversity).
 <!--START_SECTION:waka-->
 
 ```text
-
+C++          5 hrs 47 mins   ██████████░░░░░░░░░░░░░░░   39.38 %
+Markdown     3 hrs 49 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.98 %
+CMake        1 hr 46 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
+Python       1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+HTML         47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+```
 
 <!--END_SECTION:waka-->
 
