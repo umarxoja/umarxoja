@@ -19,7 +19,7 @@
 
 > [Telegram](https://t.me/XikmatxojaevUmarxoja)<br />
 
-> [Instagram]https://www.instagram.com/u_m_a_r_0597/
+> [Instagram](https://www.instagram.com/u_m_a_r_0597/)
 
 # 
 <h2 align="center"> 🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
